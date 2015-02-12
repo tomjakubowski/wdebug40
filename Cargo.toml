@@ -1,5 +1,5 @@
 [package]
 
-name = "wd40"
+name = "wdebug40"
 version = "0.0.1"
 authors = ["Tom Jakubowski <tom@crystae.net>"]
